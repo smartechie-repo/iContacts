@@ -1,0 +1,14 @@
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Models/bin/Debug/net7.0/ContactsLibrary.Models.deps.json
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Models/bin/Debug/net7.0/ContactsLibrary.Models.runtimeconfig.json
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Models/bin/Debug/net7.0/ContactsLibrary.Models.dll
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Models/bin/Debug/net7.0/ContactsLibrary.Models.pdb
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Models/obj/Debug/net7.0/ContactsLibrary.Models.csproj.AssemblyReference.cache
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Models/obj/Debug/net7.0/ContactsLibrary.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Models/obj/Debug/net7.0/ContactsLibrary.Models.AssemblyInfoInputs.cache
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Models/obj/Debug/net7.0/ContactsLibrary.Models.AssemblyInfo.cs
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Models/obj/Debug/net7.0/ContactsLibrary.Models.csproj.CoreCompileInputs.cache
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Models/obj/Debug/net7.0/ContactsLibrary.Models.dll
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Models/obj/Debug/net7.0/refint/ContactsLibrary.Models.dll
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Models/obj/Debug/net7.0/ContactsLibrary.Models.pdb
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Models/obj/Debug/net7.0/ContactsLibrary.Models.genruntimeconfig.cache
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Models/obj/Debug/net7.0/ref/ContactsLibrary.Models.dll

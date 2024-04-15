@@ -1,0 +1,17 @@
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Data/bin/Debug/net7.0/ContactsLibrary.Data.deps.json
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Data/bin/Debug/net7.0/ContactsLibrary.Data.runtimeconfig.json
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Data/bin/Debug/net7.0/ContactsLibrary.Data.dll
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Data/bin/Debug/net7.0/ContactsLibrary.Data.pdb
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Data/bin/Debug/net7.0/ContactsLibrary.Models.dll
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Data/bin/Debug/net7.0/ContactsLibrary.Models.pdb
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Data/obj/Debug/net7.0/ContactsLibrary.Data.csproj.AssemblyReference.cache
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Data/obj/Debug/net7.0/ContactsLibrary.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Data/obj/Debug/net7.0/ContactsLibrary.Data.AssemblyInfoInputs.cache
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Data/obj/Debug/net7.0/ContactsLibrary.Data.AssemblyInfo.cs
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Data/obj/Debug/net7.0/ContactsLibrary.Data.csproj.CoreCompileInputs.cache
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Data/obj/Debug/net7.0/ContactsLibrary.Data.csproj.CopyComplete
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Data/obj/Debug/net7.0/ContactsLibrary.Data.dll
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Data/obj/Debug/net7.0/refint/ContactsLibrary.Data.dll
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Data/obj/Debug/net7.0/ContactsLibrary.Data.pdb
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Data/obj/Debug/net7.0/ContactsLibrary.Data.genruntimeconfig.cache
+/Users/sudhir/RESTRICTED/self/0-TRAINING/Projects/dotNet/iContacts/ContactsLibrary.Data/obj/Debug/net7.0/ref/ContactsLibrary.Data.dll
