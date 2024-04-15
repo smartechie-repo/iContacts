@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/ContactsLibrary.Web.props" />
+</Project>
